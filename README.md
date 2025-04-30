@@ -29,7 +29,7 @@
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/mobisola-oluwafemi)
+- [LinkedIn](https://www.linkedin.com/in/mobisola-oluwafemi-a57286247/)
 - [GitHub](https://github.com/Mobisola-Esther)
 
 > “Data is a tool, but insight is the power.” 🔍
